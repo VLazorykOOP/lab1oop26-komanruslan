@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <cmath>
 using namespace std;
 
@@ -84,7 +84,6 @@ int main() {
         cout << "1. Task 1 - Array C = A * B\n";
         cout << "2. Task 2 - Max even element\n";
         cout << "3. Task 3 - Quadratic equation filter\n";
-        cout << "0. Exit\n";
         cout << "Your choice: ";
         cin >> choice;
 
